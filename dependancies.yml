@@ -1,0 +1,3 @@
+---
+- src: https://github.com/stevenharradine/ansible-hostname
+  path: /etc/ansible/roles/stevenharradine
